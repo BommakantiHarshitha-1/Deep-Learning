@@ -1,0 +1,337 @@
+{
+    "mc.py": [
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:13:42",
+            "keyStrokeInfo": "\n    ",
+            "position": "7,18"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:13:42",
+            "keyStrokeInfo": "r",
+            "position": "8,5"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:13:42",
+            "keyStrokeInfo": "e",
+            "position": "8,6"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:13:42",
+            "keyStrokeInfo": "t",
+            "position": "8,7"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:13:43",
+            "keyStrokeInfo": "u",
+            "position": "8,8"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:13:43",
+            "keyStrokeInfo": "r",
+            "position": "8,9"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:13:43",
+            "keyStrokeInfo": "n",
+            "position": "8,10"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:13:43",
+            "keyStrokeInfo": " ",
+            "position": "8,11"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:13:44",
+            "keyStrokeInfo": "B",
+            "position": "8,12"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:13:48",
+            "keyStrokeInfo": "\n    ",
+            "position": "11,18"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:13:49",
+            "keyStrokeInfo": "return B",
+            "position": "12,5"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:13:50",
+            "keyStrokeInfo": "",
+            "position": "12,12"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:13:50",
+            "keyStrokeInfo": "D",
+            "position": "12,12"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:13:51",
+            "keyStrokeInfo": "'",
+            "position": "12,13"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:13:53",
+            "keyStrokeInfo": "'",
+            "position": "12,12"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:13:56",
+            "keyStrokeInfo": "''",
+            "position": "8,13"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:13:58",
+            "keyStrokeInfo": "'",
+            "position": "8,12"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:14:03",
+            "keyStrokeInfo": "\n",
+            "position": "15,18"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:14:03",
+            "keyStrokeInfo": "    ",
+            "position": "16,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:14:03",
+            "keyStrokeInfo": "return 'D'",
+            "position": "16,5"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:14:04",
+            "keyStrokeInfo": "",
+            "position": "16,13"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:14:04",
+            "keyStrokeInfo": "B",
+            "position": "16,13"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:14:08",
+            "keyStrokeInfo": "return 'D'",
+            "position": "20,5"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:14:10",
+            "keyStrokeInfo": "",
+            "position": "20,13"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:14:11",
+            "keyStrokeInfo": "A",
+            "position": "20,13"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:14:13",
+            "keyStrokeInfo": "\n",
+            "position": "22,18"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:14:13",
+            "keyStrokeInfo": "    ",
+            "position": "23,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:14:14",
+            "keyStrokeInfo": "return 'D'",
+            "position": "23,5"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:14:15",
+            "keyStrokeInfo": "",
+            "position": "23,13"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:14:15",
+            "keyStrokeInfo": "A",
+            "position": "23,13"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 07:52:46",
+            "keyStrokeInfo": "",
+            "position": "8,15"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 10:34:54",
+            "keyStrokeInfo": "",
+            "position": "8,13"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 10:34:55",
+            "keyStrokeInfo": "b",
+            "position": "8,13"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 10:34:56",
+            "keyStrokeInfo": "",
+            "position": "12,13"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 10:34:57",
+            "keyStrokeInfo": "d",
+            "position": "12,13"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 10:34:58",
+            "keyStrokeInfo": "",
+            "position": "16,13"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 10:34:59",
+            "keyStrokeInfo": "c",
+            "position": "16,13"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 10:35:01",
+            "keyStrokeInfo": "",
+            "position": "20,13"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 10:35:01",
+            "keyStrokeInfo": "a",
+            "position": "20,13"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 10:35:03",
+            "keyStrokeInfo": "",
+            "position": "23,13"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 10:35:03",
+            "keyStrokeInfo": "a",
+            "position": "23,13"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 10:49:45",
+            "keyStrokeInfo": "",
+            "position": "16,13"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 02 2021 10:49:47",
+            "keyStrokeInfo": "b",
+            "position": "16,13"
+        }
+    ],
+    "mlp_scan.py": [
+        {
+            "operation": "DELETE",
+            "lines": 123,
+            "keyStrokeTimeStamp": "Mon Jun 07 2021 09:56:59",
+            "keyStrokeInfo": "",
+            "position": "4,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 128,
+            "keyStrokeTimeStamp": "Mon Jun 07 2021 09:57:00",
+            "keyStrokeInfo": "import numpy as np\nimport os\nimport sys\n\nsys.path.append('mytorch')\nfrom loss import *\nfrom activation import *\nfrom linear import *\nfrom conv import *\n\n\nclass CNN_SimpleScanningMLP():\n    def __init__(self):\n        # Your code goes here\n        self.conv1 = Conv1D(in_channel=24, out_channel=8, kernel_size=8, stride=4)\n        self.conv2 = Conv1D(in_channel=8, out_channel=16, kernel_size=1, stride=1)\n        self.conv3 = Conv1D(in_channel=16, out_channel=4, kernel_size=1, stride=1)\n        self.layers = [\n            self.conv1,\n            ReLU(),\n            self.conv2,\n            ReLU(),\n            self.conv3,\n            Flatten()\n        ]\n\n    def __call__(self, x):\n        # Do not modify this method\n        return self.forward(x)\n\n    def init_weights(self, weights):\n        # Load the weights for your CNN from the MLP Weights given\n        # w1, w2, w3 contain the weights for the three layers of the MLP\n        # Load them appropriately into the CNN\n\n        w1,w2,w3 = weights\n        # print(w1.shape) # 192 * 8\n        # print(w2.shape) # 8 * 16\n        # print(w3.shape) # 16 * 4\n        self.conv1.W = np.transpose(np.reshape(np.transpose(w1), (8, 8, 24)), (0, 2, 1))\n        self.conv2.W = np.transpose(np.reshape(np.transpose(w2), (16, 1, 8)), (0, 2, 1))\n        self.conv3.W = np.transpose(np.reshape(np.transpose(w3), (4, 1, 16)), (0, 2, 1))\n\n    def forward(self, x):\n        \"\"\"\n        Do not modify this method\n        Argument:\n            x (np.array): (batch size, in channel, in width)\n        Return:\n            out (np.array): (batch size, out channel , out width)\n        \"\"\"\n\n        out = x\n        for layer in self.layers:\n            out = layer(out)\n        return out\n\n    def backward(self, delta):\n        \"\"\"\n        Do not modify this method\n        Argument:\n            delta (np.array): (batch size, out channel, out width)\n        Return:\n            dx (np.array): (batch size, in channel, in width)\n        \"\"\"\n\n        for layer in self.layers[::-1]:\n            delta = layer.backward(delta)\n        return delta\n\n\nclass CNN_DistributedScanningMLP():\n    def __init__(self):\n        # Your code goes here\n        self.conv1 = Conv1D(in_channel=24, out_channel=2, kernel_size=2, stride=2)\n        self.conv2 = Conv1D(in_channel=2, out_channel=8, kernel_size=2, stride=2)\n        self.conv3 = Conv1D(in_channel=8, out_channel=4, kernel_size=2, stride=1)\n        self.layers = [\n            self.conv1,\n            ReLU(),\n            self.conv2,\n            ReLU(),\n            self.conv3,\n            Flatten()\n        ]\n    def __call__(self, x):\n        # Do not modify this method\n        return self.forward(x)\n\n    def init_weights(self, weights):\n        # Load the weights for your CNN from the MLP Weights given\n        # w1, w2, w3 contain the weights for the three layers of the MLP\n        # Load them appropriately into the CNN\n\n        w1, w2, w3 = weights\n        # conv1.W.shape outChannel * inChannel * width = 2 * 24 * 2\n        # conv2.W.shape outChannel * inChannel * width = 8 * 2 * 2\n        # conv3.W.shape outChannel * inChannel * width = 4 * 8 * 2\n        self.conv1.W = np.transpose(np.reshape(np.transpose(w1[:, :2]), (2, 8, 24))[:, :2, :], (0, 2, 1))\n        self.conv2.W = np.transpose(np.reshape(np.transpose(w2[:, :8]), (8, 4, 2))[:, :2, :], (0, 2, 1))\n        self.conv3.W = np.transpose(np.reshape(np.transpose(w3), (4, 2, 8)), (0, 2, 1))\n\n    def forward(self, x):\n        \"\"\"\n        Do not modify this method\n        Argument:\n            x (np.array): (batch size, in channel, in width)\n        Return:\n            out (np.array): (batch size, out channel , out width)\n        \"\"\"\n\n        out = x\n        for layer in self.layers:\n            out = layer(out)\n        return out\n\n    def backward(self, delta):\n        \"\"\"\n        Do not modify this method\n        Argument:\n            delta (np.array): (batch size, out channel, out width)\n        Return:\n            dx (np.array): (batch size, in channel, in width)\n        \"\"\"\n\n        for layer in self.layers[::-1]:\n            delta = layer.backward(delta)\n        return delta",
+            "position": "4,1"
+        }
+    ],
+    "hw2.py": [
+        {
+            "operation": "DELETE",
+            "lines": 133,
+            "keyStrokeTimeStamp": "Mon Jun 07 2021 22:31:31",
+            "keyStrokeInfo": "",
+            "position": "4,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 152,
+            "keyStrokeTimeStamp": "Mon Jun 07 2021 22:31:32",
+            "keyStrokeInfo": "import numpy as np\nimport os\nimport sys\n\nsys.path.append('mytorch')\nfrom loss import *\nfrom activation import *\nfrom linear import *\nfrom conv import *\n\nclass CNN(object):\n\n    \"\"\"\n    A simple convolutional neural network\n    Here you build implement the same architecture described in Section 3.3\n    You need to specify the detailed architecture in function \"get_cnn_model\" below\n    The returned model architecture should be same as in Section 3.3 Figure 3\n    \"\"\"\n\n    def __init__(self, input_width, num_input_channels, num_channels, kernel_sizes, strides,\n                 num_linear_neurons, activations, conv_weight_init_fn, bias_init_fn,\n                 linear_weight_init_fn, criterion, lr):\n        \"\"\"\n        input_width           : int    : The width of the input to the first convolutional layer\n        num_input_channels    : int    : Number of channels for the input layer\n        num_channels          : [int]  : List containing number of (output) channels for each conv layer\n        kernel_sizes          : [int]  : List containing kernel width for each conv layer\n        strides               : [int]  : List containing stride size for each conv layer\n        num_linear_neurons    : int    : Number of neurons in the linear layer\n        activations           : [obj]  : List of objects corresponding to the activation fn for each conv layer\n        conv_weight_init_fn   : fn     : Function to init each conv layers weights\n        bias_init_fn          : fn     : Function to initialize each conv layers AND the linear layers bias to 0\n        linear_weight_init_fn : fn     : Function to initialize the linear layers weights\n        criterion             : obj    : Object to the criterion (SoftMaxCrossEntropy) to be used\n        lr                    : float  : The learning rate for the class\n        You can be sure that len(activations) == len(num_channels) == len(kernel_sizes) == len(strides)\n        \"\"\"\n\n        # Don't change this -->\n        self.train_mode = True\n        self.nlayers = len(num_channels)\n\n        self.activations = activations\n        self.criterion = criterion\n\n        self.lr = lr\n        # <---------------------\n\n        # Don't change the name of the following class attributes,\n        # the autograder will check against these attributes. But you will need to change\n        # the values in order to initialize them correctly\n\n        ## Your code goes here -->\n        # self.convolutional_layers (list Conv1D) = []\n        # self.flatten              (Flatten)     = Flatten()\n        # self.linear_layer         (Linear)      = Linear(???)\n        # <---------------------\n        outChannel = num_input_channels\n        outSize = 0\n        inputSize = input_width\n        self.convolutional_layers = []\n        for i in range(self.nlayers):\n            self.convolutional_layers.append(Conv1D(in_channel=outChannel, out_channel=num_channels[i], \\\n                                                    kernel_size=kernel_sizes[i], stride=strides[i], \\\n                                                    weight_init_fn=conv_weight_init_fn, bias_init_fn=bias_init_fn))\n            outChannel = num_channels[i]\n            outSize = (inputSize - kernel_sizes[i]) // strides[i] + 1\n            inputSize = outSize\n        self.flatten = Flatten()\n        self.linear_layer = Linear(in_feature=outChannel*outSize, out_feature=num_linear_neurons, \\\n                                   weight_init_fn=linear_weight_init_fn, bias_init_fn=bias_init_fn)\n\n\n    def forward(self, x):\n        \"\"\"\n        Argument:\n            x (np.array): (batch_size, num_input_channels, input_width)\n        Return:\n            out (np.array): (batch_size, num_linear_neurons)\n        \"\"\"\n\n        ## Your code goes here -->\n        # Iterate through each layer\n        # <---------------------\n\n        # Save output (necessary for error and loss)\n        # self.output = x\n        input = x\n        for i in range(self.nlayers):\n            z = self.convolutional_layers[i].forward(input)\n            input = self.activations[i].forward(z)\n        input = self.flatten.forward(input)\n        self.output = self.linear_layer.forward(input)\n        return self.output\n\n    def backward(self, labels):\n        \"\"\"\n        Argument:\n            labels (np.array): (batch_size, num_linear_neurons)\n        Return:\n            grad (np.array): (batch size, num_input_channels, input_width)\n        \"\"\"\n\n        m, _ = labels.shape\n        self.loss = self.criterion(self.output, labels).sum()\n        grad = self.criterion.derivative()\n\n        ## Your code goes here -->\n        # Iterate through each layer in reverse order\n        # <---------------------\n        dy = self.linear_layer.backward(grad) # backprop on linear layer\n        dy = self.flatten.backward(dy) # output of activation\n        dz = 0 # input of activation\n        for i in range(self.nlayers-1, -1, -1):\n            dz = np.multiply(dy, self.activations[i].derivative())\n            dy = self.convolutional_layers[i].backward(dz)\n        grad = dy\n        return grad\n\n\n    def zero_grads(self):\n        # Do not modify this method\n        for i in range(self.nlayers):\n            self.convolutional_layers[i].dW.fill(0.0)\n            self.convolutional_layers[i].db.fill(0.0)\n\n        self.linear_layer.dW.fill(0.0)\n        self.linear_layer.db.fill(0.0)\n\n    def step(self):\n        # Do not modify this method\n        for i in range(self.nlayers):\n            self.convolutional_layers[i].W = (self.convolutional_layers[i].W -\n                                              self.lr * self.convolutional_layers[i].dW)\n            self.convolutional_layers[i].b = (self.convolutional_layers[i].b -\n                                  self.lr * self.convolutional_layers[i].db)\n\n        self.linear_layer.W = (self.linear_layer.W - self.lr * self.linear_layers.dW)\n        self.linear_layers.b = (self.linear_layers.b -  self.lr * self.linear_layers.db)\n\n\n    def __call__(self, x):\n        # Do not modify this method\n        return self.forward(x)\n\n    def train(self):\n        # Do not modify this method\n        self.train_mode = True\n\n    def eval(self):\n        # Do not modify this method\n        self.train_mode = False",
+            "position": "4,1"
+        }
+    ]
+}
