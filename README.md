@@ -7,9 +7,9 @@
 - [HW4 Word-level Neural Language Models using RNNs | Attention Mechanisms and Memory Networks](#hw4-word-leve-neural-language-models-using-rnns--attention-mechanisms-and-memory-networks)
 
 ## Introduction
-This repo contains course project of [11785 Deep Learning](http://deeplearning.cs.cmu.edu) at CMU. The projects starts off with MLPs and progresses into more complicated concepts like attention and seq2seq models. Each homework assignment consists of two parts. 
+This repo contains course project of [11785 Deep Learning](http://deeplearning.cs.cmu.edu) at turnkey Learning. The projects starts off with MLPs and progresses into more complicated concepts like attention and seq2seq models. Each homework assignment consists of two parts. 
 Part 1 is the Autolab software engineering component that involves engineering my own version of pytorch libraries, implementing important algorithms, and developing optimization methods from scratch. 
-Part 2 is the Kaggle data science component which work on project on hot AI topics, like speech recognition, face recognition, and neural machine translation.
+Part 2 is the Kaggle data science component which work on project on hot AI topics, like speech recognition, face recognition.
 
 
 ## HW1 MLP | Phoneme Recognition
@@ -36,9 +36,8 @@ Implement RNNs and GRUs deep learning library like PyTorch.
 Kaggle challenge: [Utterance to Phoneme Mapping](https://www.kaggle.com/c/11-785-s20-hw3p2).<br>This challenge works with speech data. The contest uses unaligned labels, which means the correlation between the features and labels is not given explicitly and the model will have to figure this out by itself. Hence the data will have a list of phonemes for each utterance, but not which frames correspond to which phonemes.
 The main task for this assignment will be to predict the phonemes contained in utterances in the test set. The training data does not contain aligned phonemes, and it is not a requirement to produce alignment for the test data.
 
-## HW4 Word-level Neural Language Models using RNNs | Attention Mechanisms and Memory Networks
+## HW4 Word-level Neural Language Models using RNNs
 - <b>HW4P1</b>
 Train a Recurrent Neural Network on the WikiText-2 Language Moldeling Dataset. This task uses reucurrent network to model and generate text, and uses various techniques to regularize recurrent networks and improve their performance.
 
-- <b>HW4P2</b>
-Kaggle challenge: [Deep Learning Transcript Generation with Attention](https://www.kaggle.com/c/11-785-s20-hw4p2). <br> In this challenge, use a combination of Recurrent Neural Networks (RNNs) / Convolutional Neural Networks (CNNs) and Dense Networks to design a system for speech to text transcription. End-to-end, the system should be able to transcribe a given speech utterance to its corresponding transcript.
+
